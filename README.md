@@ -1,1 +1,1 @@
-# online-store
+**Online store** - This is an online store site. There is a page with a product, each product has its own page and there is a basket where you can interact with the product. There is also a form of payment. Link to [deploy](https://alexkhokhlow-online-store.netlify.app/).
